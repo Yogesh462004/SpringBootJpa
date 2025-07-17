@@ -1,0 +1,2 @@
+# SpringBootJpa
+All jpa apps
