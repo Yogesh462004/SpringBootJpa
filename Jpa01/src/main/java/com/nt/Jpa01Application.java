@@ -21,7 +21,7 @@ private Service1 ser;
 	@Override
 	public void run(String... args) throws Exception {
 		Doctor d=new Doctor();
-		d.setDNAME("Yogesh");
+		d.setDNAME("mantesh");
 		d.setDSAL(100);
 		System.out.println(ser.register(d));
 		
